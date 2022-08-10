@@ -1,0 +1,41 @@
+/* font-family: 'Merriweather', serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Sacramento', cursive;
+font-family: 'Source Serif Pro', serif; */
+
+body{
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  margin-top: 10%;
+}
+.conatiner{
+  margin: 1% auto;
+  border: 3px solid blue;
+  border-radius: 10px;
+  width: 50%;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.row{
+  margin: 1%;
+}
+
+.fa-facebook{
+  color: blue;
+  font-size: 3rem;
+}
+.fa-facebook-messenger{
+  color: #3B9AE1;
+  font-size: 3rem;
+}
+
+.fa-twitter{
+  color: #21E1E1;
+  font-size: 3rem;
+}
+
+.fa-google{
+  color: #A10035;
+  font-size: 3rem;
+}
